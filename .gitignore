@@ -1,0 +1,17 @@
+/build
+/Debug/
+/.waf-1.7.13-5a064c2686fe54de4e11018d22148cfc
+/.lock-waf_darwin_build
+*.plt
+*.png
+*.pyc
+*.xml
+*.pcap
+*.tr
+*.routes
+*.flowmon
+*.Results
+*.pyc
+*.autotools
+*.cproject
+*.DS_Store
