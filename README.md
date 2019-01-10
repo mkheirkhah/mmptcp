@@ -60,7 +60,7 @@ topology. The simulation script is available in the [scratch folder](./scratch/)
 Morteza Kheirkhah, University College London (UCL), m.kheirkhah@ucl.ac.uk
 ```
 
-# Reference
+# How to reference this source code?
 
 The full bibtex is available at the [IEEExplore Digital
 Library](https://ieeexplore.ieee.org/document/7524530). 
@@ -76,10 +76,3 @@ Library](https://ieeexplore.ieee.org/document/7524530).
   doi={10.1109/INFOCOM.2016.7524530}
 }
 ```
-
-# Conditions to use this source code
-
-* If you use the MMPTCP source code in part or entirely, please
-  consider citing the MMPTCP paper.
-* If you want to release your code, which is built atop our source
-  code, please consider releasing a patch.
